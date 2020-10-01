@@ -1,4 +1,3 @@
-[<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/intro.gif" title="👋 Hi there! I'm dubesar|https://github.com/dubesar)"/>](https://gitbub.com/dubesar)
 
 <!--
 **dubesar/dubesar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

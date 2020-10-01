@@ -27,3 +27,15 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/Code-ReactJS(Basics)-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Backend-Flask-informational?style=flat&logo=flask&logoColor=white&color=2bbc8a)
 
+## &#x1f4c8; GitHub Stats
+
+<a href="https://github.com/dubesar/dubesar">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dubesar&hide=html,jupyter%20notebook&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+<a href="https://github.com/dubesar/dubesar">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=dubesar&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Sarvesh's GitHub Stats" />
+</a>
+
+<a href="https://github.com/dubesar/java-a-z">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dubesar&repo=java-a-z&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>

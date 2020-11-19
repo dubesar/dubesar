@@ -31,6 +31,10 @@ Here are some ideas to get you started:
 
 ### 📩 Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [Setup for React + Tailwind CSS](https://dubesar.hashnode.dev/setup-for-react-tailwind-css)
+- [FastAPI - Introduction (API on the FLY)](https://dubesar.hashnode.dev/fastapi-introduction-api-on-the-fly)
+- [Easiest Database to Use - Python](https://dubesar.hashnode.dev/easiest-database-to-use-python)
+- [Make APIs within 10 minutes (Part 1)](https://dubesar.hashnode.dev/make-apis-within-10-minutes-part-1)
 <!-- BLOG-POST-LIST:END -->
 
 ## &#x1f4c8; GitHub Stats

@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/Code-ReactJS(Basics)-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Backend-Flask-informational?style=flat&logo=flask&logoColor=white&color=2bbc8a)
 
-# 📩 Latest Blog Posts // You can name it whatever you want.
+### 📩 Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 

@@ -31,12 +31,12 @@ Here are some ideas to get you started:
 
 ### 📩 Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [Interview JS Part 4 - DOM and Layout Trees](https://dubesar.hashnode.dev/interview-js-part-4-dom-and-layout-trees)
 - [Interview JS Part 3 -  Message Queue and Event Loop (Inspired by Philip Roberts)](https://dubesar.hashnode.dev/interview-js-part-3-message-queue-and-event-loop-inspired-by-philip-roberts)
 - [Interview JS Part 2 - JavaScript Engines](https://dubesar.hashnode.dev/interview-js-part-2-javascript-engines)
 - [Interview JS Part 1 - Call Stack (Inspired by Colt Steele)](https://dubesar.hashnode.dev/interview-js-call-stack)
 - [Some Important concepts while using React 
 #Learnings-1](https://dubesar.hashnode.dev/some-important-concepts-while-using-react-learnings-1)
-- [Setup for React + Tailwind CSS](https://dubesar.hashnode.dev/setup-for-react-tailwind-css)
 <!-- BLOG-POST-LIST:END -->
 
 ## &#x1f4c8; GitHub Stats

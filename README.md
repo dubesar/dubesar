@@ -31,11 +31,12 @@ Here are some ideas to get you started:
 
 ### 📩 Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [refCareer - A single click to your next dream referral 
+#christmashackathon](https://dubesar.hashnode.dev/refcareer-a-single-click-to-your-next-dream-referral-christmashackathon)
 - [Interview JS Part 5 - Map, Reduce, Filter](https://dubesar.hashnode.dev/interview-js-part-5-map-reduce-filter)
 - [Interview OS (Part 2A) - Important Terms in OS](https://dubesar.hashnode.dev/interview-os-part-2a-important-terms-in-os)
 - [Interview OS (Part 1)](https://dubesar.hashnode.dev/interview-os-part-1)
 - [Creating a Virtual Environment in Python (Ubuntu)](https://dubesar.hashnode.dev/creating-a-virtual-environment-in-python-ubuntu)
-- [SASS (Syntactically Awesome StyleSheets)- Basics (Part 2)](https://dubesar.hashnode.dev/sass-syntactically-awesome-stylesheets-basics-part-2)
 <!-- BLOG-POST-LIST:END -->
 
 ## &#x1f4c8; GitHub Stats

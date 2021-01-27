@@ -31,12 +31,12 @@ Here are some ideas to get you started:
 
 ### 📩 Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [CSS: Display - All display properties in CSS](https://dubesar.hashnode.dev/css-display-all-display-properties-in-css)
 - [Wes Bos Project 4 - Key Concepts (JS)](https://dubesar.hashnode.dev/wes-bos-project-4-key-concepts-js)
 - [How to get a free domain and hosting for 1 year! (With steps to deploy)](https://dubesar.hashnode.dev/how-to-get-a-free-domain-and-hosting-for-1-year-with-steps-to-deploy)
 - [VueJS + Tailwind Basic Modal in 5 mins](https://dubesar.hashnode.dev/vuejs-tailwind-basic-modal-in-5-mins)
 - [refCareer - A single click to your next dream referral 
 #christmashackathon](https://dubesar.hashnode.dev/refcareer-a-single-click-to-your-next-dream-referral-christmashackathon)
-- [Interview JS Part 5 - Map, Reduce, Filter](https://dubesar.hashnode.dev/interview-js-part-5-map-reduce-filter)
 <!-- BLOG-POST-LIST:END -->
 
 ## &#x1f4c8; GitHub Stats

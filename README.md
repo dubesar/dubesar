@@ -31,11 +31,11 @@ Here are some ideas to get you started:
 
 ### 📩 Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [Using MongoDB with ExpressJS - Part 1 (Setting Up Express)](https://dubesar.hashnode.dev/using-mongodb-with-expressjs-part-1-setting-up-express)
 - [Vue Part 2 - Template Syntax and For loops](https://dubesar.hashnode.dev/vue-part-2-template-syntax-and-for-loops)
 - [VueJS Part 1 - Getting started!](https://dubesar.hashnode.dev/vuejs-part-1-getting-started)
 - [CSS: Display - All display properties in CSS](https://dubesar.hashnode.dev/css-display-all-display-properties-in-css)
 - [Wes Bos Project 4 - Key Concepts (JS)](https://dubesar.hashnode.dev/wes-bos-project-4-key-concepts-js)
-- [How to get a free domain and hosting for 1 year! (With steps to deploy)](https://dubesar.hashnode.dev/how-to-get-a-free-domain-and-hosting-for-1-year-with-steps-to-deploy)
 <!-- BLOG-POST-LIST:END -->
 
 ## &#x1f4c8; GitHub Stats

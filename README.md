@@ -28,9 +28,11 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/Code-Java(Basics)-informational?style=flat&logo=java&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Frontend-ReactJS-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Frontend-Redux-informational?style=flat&logo=redux&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Frontend-VueJs-informational?style=flat&logo=vue.js&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Backend-Flask-informational?style=flat&logo=flask&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Backend-Django-informational?style=flat&logo=django&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Backend-FastAPI-informational?style=flat&logo=fastapi&logoColor=white&color=2bbc8a)
 
 ### 📩 Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->

@@ -38,11 +38,11 @@ Here are some ideas to get you started:
 
 ### 📩 Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [Building FusionHQ - All-in-one user analytics & engagement platform.](https://dubesar.hashnode.dev/building-fusionhq-all-in-one-user-analytics-and-engagement-platform)
 - [Let's Build Word Frequency Counter using ReactJS](https://dubesar.hashnode.dev/lets-build-word-frequency-counter-using-reactjs)
 - [ReactJS + Supabase = Powerful Fullstack WebApp](https://dubesar.hashnode.dev/reactjs-supabase-powerful-fullstack-webapp)
 - [Using MongoDB with Express - Part 2](https://dubesar.hashnode.dev/using-mongodb-with-express-part-2)
 - [Using MongoDB with ExpressJS - Part 1 (Setting Up Express)](https://dubesar.hashnode.dev/using-mongodb-with-expressjs-part-1-setting-up-express)
-- [Vue Part 2 - Template Syntax and For loops](https://dubesar.hashnode.dev/vue-part-2-template-syntax-and-for-loops)
 <!-- BLOG-POST-LIST:END -->
 
 ## &#x1f4c8; GitHub Stats
